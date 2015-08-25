@@ -18,7 +18,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">OpenTok Service Kit</a>
+          <a class="navbar-brand" href="#"></a>
         </div>
       </div>
     </nav>
