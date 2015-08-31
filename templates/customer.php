@@ -36,18 +36,18 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-4">
-          <h2>Feature</h2>
-          <p>Finesse Gadgets</p>
+          <h2>Finesse Gadgets</h2>
+          <p></p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-          <h2>Feature</h2>
-          <p>Call Center Consulting Services</p>
+          <h2>Call Center Consulting Services</h2>
+          <p></p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
        </div>
         <div class="col-md-4">
-          <h2>Feature</h2>
-          <p>General Inquiries</p>
+          <h2>General Inquiries</h2>
+          <p></p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
       </div>
