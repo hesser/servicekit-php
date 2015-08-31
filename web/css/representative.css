@@ -1,10 +1,9 @@
 .video-holder {
-  position: relative;
-  width: 50%;
-  height: 25em;
-  text-align: center;
-  background-color: #333;
-}
+   position: relative;
+   min-height: 40em;
+   text-align: center;
+   background-color: #333;
+ }
 
 .subscriber,
 .publisher {
