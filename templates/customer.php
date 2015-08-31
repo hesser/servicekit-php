@@ -41,7 +41,7 @@
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-          <h2>Call Center Consulting Services</h2>
+          <h2>Consulting Services</h2>
           <p></p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
        </div>
