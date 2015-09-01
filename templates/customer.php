@@ -38,7 +38,7 @@
         <div class="col-md-4">
           <h2>Finesse Gadgets</h2>
           <p></p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="http://www.speech-soft.com/services/cisco-finesse-gadgets/" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
           <h2>Consulting Services</h2>
