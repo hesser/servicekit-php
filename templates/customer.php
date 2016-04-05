@@ -26,7 +26,7 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h1>Speech-Soft Customer Service Hub</h1>
+        <h1>Cisco Bank Customer Service Hub</h1>
         <p>Here is a product that your customers need. Naturally, they may have a couple questions.</p>
         <p><button class="btn btn-primary btn-lg service-request-btn" data-toggle="modal" data-target="#service-request-modal">Talk to a Representative</button></p>
       </div>
@@ -36,12 +36,12 @@
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-4">
-          <h2>Finesse Gadgets</h2>
+          <h2>Cisco Docs</h2>
           <p></p>
-          <p><a class="btn btn-default" href="http://www.speech-soft.com/services/cisco-finesse-gadgets/" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-default" href="http://www.cisco.com/c/en/us/support/index.html" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-          <h2>Consulting Services</h2>
+          <h2>TAC</h2>
           <p></p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
        </div>
@@ -55,7 +55,7 @@
       <hr>
 
       <footer>
-        <p>&copy; Speech-Soft 2015</p>
+        <p>&copy; HKE TEC 2015</p>
       </footer>
     </div> <!-- /container -->
 
