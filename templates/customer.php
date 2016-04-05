@@ -55,7 +55,7 @@
       <hr>
 
       <footer>
-        <p>&copy; HKE TEC 2015</p>
+        <p>&copy; Happy 2016</p>
       </footer>
     </div> <!-- /container -->
 
