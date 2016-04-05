@@ -113,7 +113,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.0"
+                "php": ">=6.0"
             },
             "require-dev": {
                 "json-schema/json-schema-test-suite": "1.1.0",
