@@ -52,6 +52,7 @@
             sessionId: data.sessionId,
             token: data.token
           });
+		   $.get("http://76.204.214.224:5000/Summit/api/v1.0/taskInjector");
           $modal.modal('hide');
         })
         .fail(function() {
