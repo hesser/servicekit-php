@@ -26,8 +26,8 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h1>Cisco Bank Customer Service Hub</h1>
-        <p>Here is a product that your customers need. Naturally, they may have a couple questions.</p>
+        <h1>Cisco Customer Service Hub</h1>
+        <p>We are here to help.</p>
         <p><button class="btn btn-primary btn-lg service-request-btn" data-toggle="modal" data-target="#service-request-modal">Talk to a Representative</button></p>
       </div>
     </div>
@@ -55,7 +55,7 @@
       <hr>
 
       <footer>
-        <p>&copy; HKE TEC 2015</p>
+        <p>&copy; Happy 2016</p>
       </footer>
     </div> <!-- /container -->
 
