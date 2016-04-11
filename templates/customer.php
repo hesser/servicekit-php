@@ -35,17 +35,17 @@
     <div class="container">
       <!-- Example row of columns -->
       <div class="row">
-        <div class="col-md-4">
+                <div class="col-md-4">
+          <h2>TAC</h2>
+          <p></p>
+          <!-- <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p> -->
+		  <p><a class="btn btn-default" href="http://76.204.214.224/candy/example/index.html"  onclick="window.open('http://76.204.214.224/candy/example/index.html', 'newwindow', 'width=300, height=250'); return false;"> Chat with us</a></p>
+       </div>
+	   <div class="col-md-4">
           <h2>Cisco Docs</h2>
           <p></p>
           <p><a class="btn btn-default" href="http://www.cisco.com/c/en/us/support/index.html" role="button">View details &raquo;</a></p>
         </div>
-        <div class="col-md-4">
-          <h2>TAC</h2>
-          <p></p>
-          <!-- <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p> -->
-		  <p><a class="btn btn-default" href="http://76.204.214.224/candy/example/index.html"  onclick="window.open('http://76.204.214.224/candy/example/index.html', 'newwindow', 'width=300, height=250'); return false;"> Chat</a></p>
-       </div>
         <div class="col-md-4">
           <h2>General Inquiries</h2>
           <p></p>
